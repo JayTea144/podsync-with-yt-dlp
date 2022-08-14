@@ -1,4 +1,12 @@
-# Podsync
+# Podsync with yt-dlp
+Maintained by fqx, get image with 
+```
+docker pull ghcr.io/fqx/podsync-with-yt-dlp:latest
+```
+
+Below are the original README.md
+
+
 
 ![Podsync](docs/img/logo.png)
 
